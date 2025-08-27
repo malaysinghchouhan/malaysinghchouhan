@@ -63,7 +63,7 @@ Machine Learning, Technical Writing, Dance, Photography, Technical Evangelism
 
 I hereby declare that the information provided above is true to the best of my knowledge and belief.
 
-Date: 					Place: MHOW	           	**Malay Singh Chouhan**
+**Malay Singh Chouhan**
 <!--
 **malaysinghchouhan/malaysinghchouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: He/Him
