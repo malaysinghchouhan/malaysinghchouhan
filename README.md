@@ -2,46 +2,68 @@
 
 Last updated: 27 Aug 2025
 
-Hi There! I am currently pursuing a PGDM in Data Science & Analytics at Great Lakes Institute of Management, I blend hands-on technical skills with business acumen to drive intelligent, ethical solutions. I also have work history of professional technical writer with 7+ years in software documentation and API documentation, now pivoting into strategic roles in AI, machine learning, and data analytics. 
+## **Malay Singh Chouhan** | **Aiming for responsible, ethical use of  AI in Management**
 
+Mhow, Indore, Madhya Pradesh, India – 453441  
+\+919244727627 | [malaysinghchouhan@gmail.com](mailto:malaysinghchouhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mschouhan) | [Github](https://github.com/malaysinghchouhan/malaysinghchouhan/blob/372bf381c80fd4aa3dbce6f28d71c098edd0db35/README.md) | [Great Lakes Portfolio](https://eportfolio.olympuslms.com/malay-singh-chouhan)
 
-## Skills & Tools
-- **AI for Business:**
-Python, Scikit-learn, TensorFlow, Keras, SHAP, LIME, Azure ML, AWS SageMaker
-- **ML for Business Application:**
-Pandas, NumPy, XGBoost, LightGBM, MLflow, Streamlit, FastAPI, Jupyter Notebook, Google Colaboratory
-- **Marketing Analytics:**
-KNIME Analytics Platform, Excel, Tableau
-- **Data Visualization:**
-Tableau Desktop, Power BI, Matplotlib, Seaborn, Plotly
-- **Business Ethics:**
-ISO 42001 Toolkit, ESG templates, EU AI Act
-- **Business Research Methods:**
-Excel, Python (stats), SPSS
-- **Web & Social Media Analytics:**
-Google Analytics, Tag Manager, NLTK, spaCy, TextBlob, Tableau
-- **Communication & Collaboration:**
-Cross-functional leadership, multilingual documentation, stakeholder reporting, software technical writing
+### **Professional Summary**
 
+To transition into managerial role in domain of Artificial Intelligence, Machine Learning, or Data Analytics. Committed to driving intelligent product development and data-driven decisions for proliferation of the company by leveraging over 7 years of experience in technical documentation.
 
+### **Technical Skills**
 
-## Career Goals
-- In short-term: Secure internship as management trainee, and transition into a managerial role in AI/ML or data analytics  
-- In long-term: Lead cross-functional teams in intelligent product development and ethical AI deployment
+| AI for Business | Python, Scikit-learn, TensorFlow, Keras, SHAP, LIME, Azure ML, AWS SageMaker |
+| :---- | :---- |
+| **ML for Business Application** | Pandas, NumPy, XGBoost, LightGBM, MLflow, Streamlit, FastAPI, Jupyter Notebook, Google Colaboratory |
+| **Marketing Analytics** | KNIME Analytics Platform, Excel, Tableau |
+| **Data Visualization** | Tableau Desktop, Power BI, Matplotlib, Seaborn, Plotly |
+| **Business Ethics** | ISO 42001 Toolkit, ESG, GDPR, SOx, HIPPA, ISO 27001, NIST |
+| **Business Research Methods** | Excel, Python (stats), SPSS, Tableau |
+| **Web & Social Media Analytics** | Google Analytics, Tag Manager, NLTK, spaCy, TextBlob, Tableau |
+| **Communication & Collaboration** | Software technical writing, cross-functional leadership, multilingual translation, stakeholder reporting, Evangelist |
 
-## Education
-**PGDM – Data Science & Analytics** (2023–2025)  
-Great Lakes Institute of Management, Gurgaon | GCPA: 3.68/4.00  
-**B.E. – Mechanical Engineering** (2012–2016)  
-RGPV Bhopal | CGPA: 6.2/10
+### **Professional Experience**
 
-## Outside Work
-I’m passionate about dance, photography, and ESG strategy. I believe in building tech that’s not just smart—but responsible.
+**Senior Technical Writer** AGM Infra Solutions Pvt Ltd | Dec 2024 – Present
 
----
+* Led documentation for user access provisioning, Infrastructure, Networking, SaaS platforms, and IDAM systems  
+* Published multilingual guides and API references in production environments  
+* Delivered help manuals, user guides, SDK documentation, and visual assets across domains (illustrations, vector graphics, SBOM, parts catalog exploded assembly artwork)  
+* Collaborated with engineering, QA, and product teams for timely delivery
 
-**Let’s connect**:  
-Feel free to explore my repositories or reach out on malaysinghchouhan@gmail.com/ malaysingh.pgdmgreatlakes@gmail.com/ +919244727627 for collaboration, mentorship, or just a good conversation about AI strategy and ethical innovation.
+**Lead Executive – Technical Writing** Akkodis India Pvt. Ltd | Oct 2023 – Nov 2024
+
+* Developed ML documentation and ethical AI guidelines  
+* Managed sprint-based delivery cycles and stakeholder alignment
+
+**Further previous Technical Writer positions held between 2017–2023**
+
+**Ecoppia Scientific LLP** (2022-23), **NewAge Products Design Pvt Ltd** (2020-2022),   
+**Q3 Technologies Pvt Ltd** (2020), **Hi-Tech Robotic Systemz Ltd** (2019-20), **Newgen Knowledgeworks Pvt Ltd** (2018-19), **Bansal Consultancy Services Pvt Ltd** (2017-18)
+
+### **Education**
+
+**PGDM – Data Science & Analytics** Great Lakes Institute of Management, Gurgaon | 2023 – 2025 | Grades: 3.50 /4.00  
+**Bachelor of Engineering – Mechanical** RGPV Bhopal | 2012 – 2016 | CGPA: 6.2/10
+
+### **PGDM Acheivements**
+
+Completed a rigorous, industry-aligned curriculum integrating AI/ML, marketing analytics, optimization, and ethical governance. Delivered dual capstone projects focused on real-world business applications of machine learning and strategic analytics. Strengthened managerial acumen through coursework in strategic management, financial decision-making, organizational behavior, and macro/microeconomics—building a strong foundation in cross-functional leadership, stakeholder communication, and data-informed business strategy.
+
+### **Languages**
+
+English, Hindi (fluent); worked with native translators for Marathi, Tamil, Telugu, German, French, Italian
+
+### **Interests**
+
+Machine Learning, Technical Writing, Dance, Photography, Technical Evangelism
+
+### **Declaration**
+
+I hereby declare that the information provided above is true to the best of my knowledge and belief.
+
+Date: 					Place: MHOW	           	**Malay Singh Chouhan**
 <!--
 **malaysinghchouhan/malaysinghchouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 😄 Pronouns: He/Him
