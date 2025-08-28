@@ -1,4 +1,4 @@
-# Welcome to Malay's Github! 
+# Welcome to Malay's GitHub profile! 
 
 Last updated: 27 Aug 2025
 
