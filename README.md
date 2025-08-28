@@ -5,7 +5,7 @@ Last updated: 27 Aug 2025
 ## **Malay Singh Chouhan** | **Aiming for responsible, ethical use of  AI in Management**
 
 Mhow, Indore, Madhya Pradesh, India – 453441  
-\+919244727627 | [malaysinghchouhan@gmail.com](mailto:malaysinghchouhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mschouhan) | [Github](https://github.com/malaysinghchouhan/malaysinghchouhan/blob/372bf381c80fd4aa3dbce6f28d71c098edd0db35/README.md) | [Great Lakes Portfolio](https://eportfolio.olympuslms.com/malay-singh-chouhan)
+\+919244727627 | [malaysinghchouhan@gmail.com](mailto:malaysinghchouhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mschouhan) | [GitHub](https://github.com/malaysinghchouhan/malaysinghchouhan/blob/372bf381c80fd4aa3dbce6f28d71c098edd0db35/README.md) | [Great Lakes Portfolio](https://eportfolio.olympuslms.com/malay-singh-chouhan)
 
 ### **Professional Summary**
 
