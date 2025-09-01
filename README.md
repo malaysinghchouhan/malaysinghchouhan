@@ -5,17 +5,17 @@ Last updated: 27 Aug 2025
 ## **Malay Singh Chouhan** | **Aiming for responsible, ethical use of  AI in Management**
 
 Mhow, Indore, Madhya Pradesh, India – 453441  
-\+919244727627 | [malaysinghchouhan@gmail.com](mailto:malaysinghchouhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mschouhan) | [GitHub](https://github.com/malaysinghchouhan/malaysinghchouhan/blob/372bf381c80fd4aa3dbce6f28d71c098edd0db35/README.md) | [Great Lakes Portfolio](https://eportfolio.olympuslms.com/malay-singh-chouhan)
+\+919244727627 | [malaysinghchouhan@gmail.com](mailto:malaysinghchouhan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mschouhan) | [GitHub](https://github.com/malaysinghchouhan/malaysinghchouhan) | [Great Lakes Portfolio](https://eportfolio.olympuslms.com/malay-singh-chouhan)
 
 ### **Professional Summary**
 
-To transition into managerial role in domain of Artificial Intelligence, Machine Learning, or Data Analytics. Committed to driving intelligent product development and data-driven decisions for proliferation of the company by leveraging over 7 years of experience in technical documentation.
+To transition into Artificial Intelligence in domain of Data Science, Machine Learning. Committed to driving intelligent product development and data-driven decisions for proliferation of the company. Passionate about applying cutting-edge techniques through rigorous experimentation, scalable modeling, and business-aligned impact.
 
 ### **Technical Skills**
 
-| AI for Business | Python, Scikit-learn, TensorFlow, Keras, SHAP, LIME, Azure ML, AWS SageMaker |
-| :---- | :---- |
+| **AI for Business** | Python, Scikit-learn,Deep Learning Frameworks; TensorFlow, Keras, Pytorch basics, SHAP, LIME, Azure ML, AWS SageMaker |
 | **ML for Business Application** | Pandas, NumPy, XGBoost, LightGBM, MLflow, Streamlit, FastAPI, Jupyter Notebook, Google Colaboratory |
+| **Data Querying** | SQL; Joins, CTEs, Window Functions |
 | **Marketing Analytics** | KNIME Analytics Platform, Excel, Tableau |
 | **Data Visualization** | Tableau Desktop, Power BI, Matplotlib, Seaborn, Plotly |
 | **Business Ethics** | ISO 42001 Toolkit, ESG, GDPR, SOx, HIPPA, ISO 27001, NIST |
@@ -29,13 +29,17 @@ To transition into managerial role in domain of Artificial Intelligence, Machine
 
 * Led documentation for user access provisioning, Infrastructure, Networking, SaaS platforms, and IDAM systems  
 * Published multilingual guides and API references in production environments  
-* Delivered help manuals, user guides, SDK documentation, and visual assets across domains (illustrations, vector graphics, SBOM, parts catalog exploded assembly artwork)  
+* Delivered help manuals, user guides, SDK documentation, and visual assets across domains (flowcharts, diagrams using Visio, Figma)  
 * Collaborated with engineering, QA, and product teams for timely delivery
+* Collaborated with cross-functional teams to  for compliance with ISO 27001 and GDPR standards, reported into Project manager as per dual reporting.
 
 **Lead Executive – Technical Writing** Akkodis India Pvt. Ltd | Oct 2023 – Nov 2024
 
-* Developed ML documentation and ethical AI guidelines  
-* Managed sprint-based delivery cycles and stakeholder alignment
+* Delivered end-to-end software documentation including user guides, API references, release notes, and installation manuals.
+* Collaborated with cross-functional teams to gather requirements and align documentation with Agile sprint cycles.
+* Produced multilingual content for global audiences, coordinating with native translators for European and Indian languages.
+* Managed version control and modular documentation using GitHub, Confluence, and standardized templates.
+* Created visual assets (UI walkthroughs, flowcharts, diagrams) using Snagit, Draw.io, reported into Product Owner as per dual reporting.
 
 **Further previous Technical Writer positions held between 2017–2023**
 
@@ -52,7 +56,7 @@ To transition into managerial role in domain of Artificial Intelligence, Machine
 #### Capstone Project 2 – Job Seeker Analytics
 Executed a dual-problem machine learning project using job seeker data from India (2021), focused on salary prediction and location preference classification. The dataset included demographic, educational, and professional attributes. The project aimed to uncover salary determinants and model geographic preferences using regression and classification techniques, supported by literature on predictive modeling and ensemble learning.
 
-##### 🔍 Problem Definition & Objectives
+##### Problem Definition & Objectives
 - Salary Prediction: Estimated expected salary using profile features; cleaned salary formats, standardized currency, and built regression models (Linear, Random Forest, XGBoost).
 - Location Preference Classification: Classified candidates’ preference for Delhi NCR using profile-based features; trained models like Logistic Regression and Decision Trees.
 
