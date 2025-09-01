@@ -49,7 +49,42 @@ To transition into managerial role in domain of Artificial Intelligence, Machine
 
 ### **PGDM Acheivements**
 
-Completed a rigorous, industry-aligned curriculum integrating AI/ML, marketing analytics, optimization, and ethical governance. Delivered dual capstone projects focused on real-world business applications of machine learning and strategic analytics. Strengthened managerial acumen through coursework in strategic management, financial decision-making, organizational behavior, and macro/microeconomics—building a strong foundation in cross-functional leadership, stakeholder communication, and data-informed business strategy.
+#### Capstone Project 2 – Job Seeker Analytics
+Executed a dual-problem machine learning project using job seeker data from India (2021), focused on salary prediction and location preference classification. The dataset included demographic, educational, and professional attributes. The project aimed to uncover salary determinants and model geographic preferences using regression and classification techniques, supported by literature on predictive modeling and ensemble learning.
+
+##### 🔍 Problem Definition & Objectives
+- Salary Prediction: Estimated expected salary using profile features; cleaned salary formats, standardized currency, and built regression models (Linear, Random Forest, XGBoost).
+- Location Preference Classification: Classified candidates’ preference for Delhi NCR using profile-based features; trained models like Logistic Regression and Decision Trees.
+
+##### Data Preparation & Feature Engineering
+
+- Converted textual salary data to numeric format.
+- Encoded categorical variables using one-hot, label, and target encoding.
+- Created binary target for location preference based on Delhi NCR cities (Delhi, Noida, Gurgaon, Faridabad).
+
+##### Modeling & Evaluation
+
+- Applied regression techniques with SHAP for explainability; evaluated using MAE, RMSE, and R².
+- Built classification models and assessed performance using Accuracy, Precision, Recall, and F1-score.
+
+##### Literature Integration
+
+- Benchmarked modeling choices against Kaggle’s Data Science Salaries dataset and GPS-based trajectory prediction studies.
+- Incorporated ensemble methods (Random Forest, XGBoost) and regularized regressions (Ridge, Lasso) for robustness.
+
+##### Deployment & Documentation
+
+- Deployed salary predictor via Streamlit.
+- Visualized sentiment and location insights in Tableau.
+- Documented workflows and results in GitHub for recruiter and stakeholder review.
+
+#### Capstone Project 1 – Strategic Business Analysis of SKF India Pvt. Ltd.
+Completed a comprehensive strategic analysis of SKF India Pvt. Ltd. as part of a business-aligned curriculum integrating market research, financial modeling, and competitive strategy. Delivered insights through structured frameworks and data-driven evaluations to assess the company’s positioning and future roadmap.
+- Conducted in-depth market analysis including size, trends, and challenges; mapped key success factors and business model canvas.
+- Performed competitor benchmarking and Porter’s Five Forces analysis to evaluate industry dynamics and strategic threats.
+- Executed internal diagnostics via value chain analysis and historical performance review to assess operational strengths.
+- Applied SWOT and TOWS frameworks to formulate strategic recommendations and a future roadmap for sustained growth.
+- Delivered financial analysis using common size statements and ratio evaluations (profitability, liquidity, efficiency, solvency, investor metrics).
 
 ### **Languages**
 
