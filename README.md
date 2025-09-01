@@ -13,12 +13,14 @@ To transition into Artificial Intelligence in domain of Data Science, Machine Le
 
 ### **Technical Skills**
 
-| **AI for Business** | Python, Scikit-learn,Deep Learning Frameworks; TensorFlow, Keras, Pytorch basics, SHAP, LIME, Azure ML, AWS SageMaker |
+| **Learnings** | **Technical Stacks** |
+|--------------------|--------------------------|
+| **AI for Business** | Python, Scikit-learn, Deep Learning Frameworks; TensorFlow, Keras, PyTorch (basics), SHAP, LIME, Azure ML, AWS SageMaker |
 | **ML for Business Application** | Pandas, NumPy, XGBoost, LightGBM, MLflow, Streamlit, FastAPI, Jupyter Notebook, Google Colaboratory |
 | **Data Querying** | SQL; Joins, CTEs, Window Functions |
 | **Marketing Analytics** | KNIME Analytics Platform, Excel, Tableau |
 | **Data Visualization** | Tableau Desktop, Power BI, Matplotlib, Seaborn, Plotly |
-| **Business Ethics** | ISO 42001 Toolkit, ESG, GDPR, SOx, HIPPA, ISO 27001, NIST |
+| **Business Ethics** | ISO 42001 Toolkit, ESG, GDPR, SOx, HIPAA, ISO 27001, NIST |
 | **Business Research Methods** | Excel, Python (stats), SPSS, Tableau |
 | **Web & Social Media Analytics** | Google Analytics, Tag Manager, NLTK, spaCy, TextBlob, Tableau |
 | **Communication & Collaboration** | Software technical writing, cross-functional leadership, multilingual translation, stakeholder reporting, Evangelist |
